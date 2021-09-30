@@ -20192,7 +20192,14 @@ video {
 .to-yellow-600 {
   --tw-gradient-to: #d97706;
 }
-
+.i-circle
+{
+  font-size:30px;
+}
+.icon-mob
+{
+  font-size:25px;
+}
 .to-yellow-700 {
   --tw-gradient-to: #b45309;
 }
@@ -37612,7 +37619,7 @@ video {
   }
 
   .sm\:ml-auto {
-    margin-left: 1600px;
+    margin-left: -160px;
   }
 
   .sm\:ml-px {
